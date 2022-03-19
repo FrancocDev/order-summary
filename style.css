@@ -49,6 +49,7 @@ main{
     background-color: white;
     border-radius: 2rem;
     max-width: 400px;
+    min-width: 320px;
 }
 #card__music-image{
     justify-self: flex-start;
